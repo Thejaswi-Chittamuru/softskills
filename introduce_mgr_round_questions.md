@@ -18,11 +18,11 @@ Overall, I bring a blend of deep technical knowledge, hands-on Cloud experience,
 ### Q. When asked about anything you dont know 
 
 - on tools and automation 
-While I may not have worked extensively with all of these tools, 
+-- While I may not have worked extensively with all of these tools, 
 I have hands-on experience in automated testing concepts, designing test scripts, and integrating automation into CI/CD pipelines, and I’m confident in quickly getting up to speed with these frameworks if required.”
 
 - on kubernetes
-While I may not have worked extensively with kubernetes and microservices , I have good hands-on experience in Cloud platforms ( AWS , Azure , GCP ) and I am confident I can quickly get up to speed on kubernetes.
+-- While I may not have worked extensively with kubernetes and microservices , I have good hands-on experience in Cloud platforms ( AWS , Azure , GCP ) and I am confident I can quickly get up to speed on kubernetes.
 
 ### Q. What are you looking for in this role ? ( asked to see if candidate is a good fit )
 
