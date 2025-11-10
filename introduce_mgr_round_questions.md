@@ -15,6 +15,14 @@ In addition to my technical expertise, I actively contribute to framework design
 
 Overall, I bring a blend of deep technical knowledge, hands-on Cloud experience, and leadership skills, and I’m passionate about building automation solutions that drive reliability and scalability in complex networking environments.
 
+### Q. When asked about anything you dont know 
+
+- on tools and automation 
+While I may not have worked extensively with all of these tools, 
+I have hands-on experience in automated testing concepts, designing test scripts, and integrating automation into CI/CD pipelines, and I’m confident in quickly getting up to speed with these frameworks if required.”
+
+- on kubernetes
+While I may not have worked extensively with kubernetes and microservices , I have good hands-on experience in Cloud platforms ( AWS , Azure , GCP ) and I am confident I can quickly get up to speed on kubernetes.
 
 ### Q. What are you looking for in this role ? ( asked to see if candidate is a good fit )
 
@@ -112,7 +120,7 @@ if unavoidable then ,
 - find a common ground , both the team members intention is the project to succeed , so I would encourage to discuss combine ideas to achieve the best outcome.
 - Seek a solution and not blame , I would focus on finding a solution rather than blaming.
 
-### Do you have any questions 
+### Q. Do you have any questions 
 
 What are the most critical challenges for someone stepping into this role in the first 6–12 months?
 Could you share a bit about the current technology stack or tools being used in this project?
