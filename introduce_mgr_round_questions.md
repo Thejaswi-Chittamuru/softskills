@@ -4,7 +4,7 @@ Hi, I’m Anush Varada, and I have over 17 years of experience in Network Protoc
 
 I currently work as a Technical Lead at Keysight Technologies, where I lead automation initiatives for L4–L7 network security and cloud products. 
 
-My core strengths include Python automation, REST API-based framework development, and network security feature testing using tools like IxLoad, IxNetwork, Breaking Point, and CyPerf. I also have extensive hands-on experience with cloud deployments on AWS, Azure, and GCP, as well as virtualization on ESXi and KVM.
+My core strengths include Python automation, REST API-based framework development, and network security testing using tools like IxLoad, IxNetwork, Breaking Point, and CyPerf. I also have extensive hands-on experience with cloud deployments on AWS, Azure, and GCP, as well as virtualization on ESXi and KVM.
 
 
 I work on Automation for L4/L7 Ixia products Along with the internal testing I also develope and provide optimized scalable Python-based automation solutions / APIs and tools which we help to integrate with the CI/CD pipelines or Automation frameworks for major clients like Cisco, Juniper, Palo Alto Networks, Broadcom, NVDIA and Nokia.
